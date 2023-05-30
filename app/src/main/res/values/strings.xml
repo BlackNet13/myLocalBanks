@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="dbs">DBS</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="website">Website</string>
+    <string name="contact_the_bank">Contact the bank</string>
+    <string name="fav">Mark as Favourite</string>
+    <string name="unFav">Unfavourite</string>
+    <string name="choice">Select One:</string>
+
+    <!--chinese var-->
+    <string name="appNameC">我的本地银行</string>
+    <string name="dbsC">星展银行</string>
+    <string name="ocbcC">华侨银行</string>
+    <string name="uobC">大华银行</string>
+    <string name="englishC">英语</string>
+    <string name="chineseC">中文</string>
+    <string name="websiteC">网站</string>
+    <string name="contactTBC">联系银行</string>
+    <string name="favC">收藏</string>
+    <string name="unFavC">取消收藏</string>
+    <string name="choiceC">选择一个: </string>
+
+    <!--numbers & website-->
+    <string name="dbsN">18001111111</string>
+    <string name="ocbcN">18003633333</string>
+    <string name="uobN">18002222121</string>
+</resources>
